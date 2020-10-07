@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**MarcoXM/MarcoXM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Marco Wang,
+- 🔭 I’m currently working @ Anduril Partners as data engineer.
+- 💻 I’m currently learning Python, SQL, Golang, and C++.
+- 📫 How to reach me: 
+    - Portfolio: https://marcoxm.github.io
+    - Github: https://github.com/MarcoXM
+    - E-mail: xwang423@fordham.edu 
+    
+🎧 Soft Skills :
+• Leadership and Project Management
+• Communication and Negotiation
+• Teaching
