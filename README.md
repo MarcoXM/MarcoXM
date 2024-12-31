@@ -6,7 +6,7 @@ My name is Marco Wang,
 - 📫 How to reach me: 
     - Portfolio: https://marcoxm.github.io
     - Github: https://github.com/MarcoXM
-    - E-mail: xwang423@fordham.edu 
+    - E-mail: marcopwang@gmail.com
     
 🎧 Soft Skills :
 • Leadership and Project Management
